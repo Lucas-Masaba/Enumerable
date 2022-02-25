@@ -1,5 +1,4 @@
 module MyEnumerable
-
   def all?(&block)
     result = true
     each do |element|
